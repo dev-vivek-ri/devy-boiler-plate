@@ -1,0 +1,59 @@
+{
+  "@@locale": "en",
+  "appTitle": "Sample App",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "title": "Hello World",
+  "@title": {
+    "description": "The title of the application"
+  },
+  "greeting": "Hello",
+  "@greeting": {
+    "description": "The title of the application"
+  },
+  "offline":"You are offline",
+  "@offline": {
+    "description": "The title of the application"
+  },
+  "comingSoon":"Coming Soon",
+  "@comingSoon": {
+    "description": "The title of the application"
+  },
+  "underDevelopment":"Under Development",
+  "@underDevelopment": {
+    "description": "The title of the application"
+  },
+  "noItem":"No Item",
+  "@noItem": {
+    "description": "The title of the application"
+  },
+  "userName":"User Name",
+  "@userName": {
+    "description": "The title of the application"
+  },
+  "userNameError":"User Name is required",
+  "@userNameError": {
+    "description": "The title of the application"
+  },
+  "password":"Password",
+  "@password": {
+    "description": "The title of the application"
+  },
+  "passwordError":"Password is required",
+  "@passwordError": {
+    "description": "The title of the application"
+  },
+  "login":"Login",
+  "@login": {
+    "description": "The title of the application"
+  },
+  "invalidCredintial":"Invalid Credintial",
+  "@invalidCredintial": {
+    "description": "The title of the application"
+  },
+  "loginGuest":"Login as Guest",
+  "@loginGuest": {
+    "description": "The title of the application"
+  }
+}
